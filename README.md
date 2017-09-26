@@ -1,6 +1,3 @@
-# Anomaly Coding Challenge
-This is an implementation of the [Insight Data Engineering Anomaly Detection Coding Challenge]( https://github.com/InsightDataScience/anomaly_detection ) using python3.6.
-
 ## Libraries used
 The implmentation makes use of ```simplejson``` library in addition to the standard python libraries
 
